@@ -1,0 +1,35 @@
+.imagen-logo{
+    width: 120%;
+    height: 70px;
+}
+
+.navbar .container-fluid .navbar-nav {
+    margin-left: auto;
+  }
+  .navbar .container-fluid .navbar-nav .nav-link {
+    color: white;
+    text-transform: uppercase;
+    margin: 15px;
+  }
+  .navbar .container-fluid .navbar-nav .nav-link:hover {
+    transition: 1.5s;
+    transform: scale(1.1);
+    background-color: #575454;
+  }
+
+
+#formulario{
+  margin-left: 40%;
+  text-align:left;
+  margin-top: 2%;
+  text-transform: uppercase;
+  
+}
+  
+.boton{
+  margin-top: 3%;
+  margin-left: 8%;
+}  
+
+
+
